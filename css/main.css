@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-body { overflow: hidden; font-family:  "Barlow", "pretendard", sans-serif ; font-size: 1.6rem; }
+body { overflow-x: hidden; font-family:  "Barlow", "pretendard", sans-serif ; font-size: 1.6rem; }
 .inner { max-width: 1640px; margin: 0 auto; padding: 0 20px; }
 
 
