@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+
+/*초기화*/
+html { font-size: 62.5%; }
+/* 여백초기화 */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+/*밑줄 제거, 글작색 지정 */
+a { text-decoration: none; color: inherit }
+
+/*불릿기호 재거*/
+ol, ul { list-style:  none; }
+
+/* 이미지 라인하이트 제거*/
+img { vertical-align: middle; }
+
+/* 글자 기울임 제거 */
+address, em { font-style: normal; }
+
+/* 폼요소 초기화 */
+button, select, input, textarea  { vertical-align: middle; }
+
+/*테이블 (표) 초기화 */
+table { border-collapse: collapse;  width: 100%; }
